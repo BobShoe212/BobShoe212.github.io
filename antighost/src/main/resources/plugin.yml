@@ -6,8 +6,8 @@ author: BobShoe212
 description: Prevents a common cause of "ghost blocks"
 commands:
   gbtest:
-    description:
-    usage: "This command is for testing purposes only!\n\n
-    /<command> - Give yourself haste 2, nightvision and an unbreakable efficiency 5 diamond pickaxe\n\n
-    /<command> toggle - Toggle ghost block protection active/disabled for all players"
+    description: "This command is for testing purposes only!\n\n
+    usage: 
+    /gbtest - Give yourself haste 2, nightvision and an unbreakable efficiency 5 diamond pickaxe\n\n
+    /gbtest toggle - Toggle ghost block protection active/disabled for all players"
     default: OP
